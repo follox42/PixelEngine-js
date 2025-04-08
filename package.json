@@ -1,0 +1,26 @@
+{
+    "name": "PixelEngine-js",
+    "version": "0.1.0",
+    "description": "A JavaScript library for creating dynamic pixel art animations in an HTML canvas",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "pixel",
+      "canvas",
+      "animation",
+      "graphics",
+      "lighting"
+    ],
+    "author": "Follox",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/follox42/PixelEngine-js.git"
+    },
+    "bugs": {
+      "url": "https://github.com/follox42/PixelEngine-js/issues"
+    },
+    "homepage": "https://github.com/follox42/PixelEngine-js#readme"
+  }
